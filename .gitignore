@@ -1,0 +1,4 @@
+*.out
+Makefile
+input.txt
+example_input.txt
